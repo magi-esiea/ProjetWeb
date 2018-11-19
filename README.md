@@ -3,4 +3,4 @@ Projet web e-commerce avec interface d'administration pour editer des produits d
 
 ## Nicolas MAGI
 ### 4A-UFA Paris
-+ Site hébergé sur Glitch: [glitch](http://)
++ Site hébergé sur Glitch: [glitch](https://dull-hugger.glitch.me)
